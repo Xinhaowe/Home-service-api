@@ -1,0 +1,44 @@
+[
+    {
+      "_id": "6200524c7ee8d02130b09bf6",
+      "serviceName": "Cleaner",
+      "servicePrice": "80",
+      "serviceImageLink": "https://media.istockphoto.com/photos/house-cleaning-product-on-wood-table-with-gray-background-home-or-picture-id1354559215?k=20&m=1354559215&s=612x612&w=0&h=uHam4HZCAIWNLcOqhuJNMhudypRpXdl_stzqv71sgJQ=",
+      "description": "Sweet home got messed up? No worries. Just book a cleaning service and wait for professionals to arrive"
+    },
+    {
+      "_id": "620053647ee8d02130b09bf7",
+      "serviceImageLink": "https://moversbd.com/wp-content/uploads/2020/04/furniture-assembly.jpg",
+      "servicePrice": "55",
+      "serviceName": "Furniture Assembly",
+      "description": "We have the best people to help you assemble your furniture"
+    },
+    {
+      "_id": "620055a27ee8d02130b09bf8",
+      "serviceImageLink": "https://cdn.onekindesign.com/wp-content/uploads/2022/01/Refined-Modern-Home-Design-Frankel-Building-Group-01-1-Kindesign-600x400.jpg",
+      "serviceName": "Home Designer",
+      "servicePrice": "150",
+      "description": "Need to design or redesign your home? We got the best designer for your dream home"
+    },
+    {
+      "_id": "6200573e7ee8d02130b09bfa",
+      "serviceImageLink": "https://alrabiahconsulting.com/App_Upload/AdobeStock_123298686-e1511438756890-1.jpeg",
+      "serviceName": "Architect",
+      "servicePrice": "250",
+      "description": "You need an architect? We got you covered. Book now"
+    },
+    {
+      "_id": "620057a07ee8d02130b09bfb",
+      "serviceImageLink": "https://mattthepainter.com/wp-content/uploads/professional-painters-1024x683.jpg",
+      "serviceName": "Painter",
+      "servicePrice": "180",
+      "description": "Need to paint or repaint your home? We have the best professionals here."
+    },
+    {
+      "_id": "6205d64c0aca981854bbef73",
+      "serviceName": "Cleaning",
+      "servicePrice": "32",
+      "serviceImageLink": "https://cdn-illaf.nitrocdn.com/nPYQRHTAYZdIBuISPGzwBADvXTzytPyq/assets/images/optimized/rev-8d3a331/themeholy.com/wordpress/logistik/wp-content/uploads/2023/10/about_1.jpg",
+      "description": "General cleaning services available."
+    }
+]
