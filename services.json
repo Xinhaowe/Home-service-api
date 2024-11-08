@@ -36,9 +36,17 @@
     },
     {
       "_id": "6205d64c0aca981854bbef73",
-      "serviceName": "Cleaning",
+      "serviceName": "Rubish Cleaning",
       "servicePrice": "32",
       "serviceImageLink": "https://cdn-illaf.nitrocdn.com/nPYQRHTAYZdIBuISPGzwBADvXTzytPyq/assets/images/optimized/rev-8d3a331/themeholy.com/wordpress/logistik/wp-content/uploads/2023/10/about_1.jpg",
       "description": "General cleaning services available."
+    },
+    {
+      "_id": "6205d64c0aca981854bbef73",
+      "serviceType": "package",
+      "serviceName": "Regular Clean Package",
+      "servicePrice": "119",
+      "serviceImageLink": "https://cdn-illaf.nitrocdn.com/nPYQRHTAYZdIBuISPGzwBADvXTzytPyq/assets/images/optimized/rev-8d3a331/themeholy.com/wordpress/logistik/wp-content/uploads/2023/10/about_1.jpg",
+      "description": "Including basic cleaning and garbage disposal."
     }
 ]
