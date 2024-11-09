@@ -107,7 +107,7 @@ app.get("/reviews/:reviewId", (req, res) => {
     } else {
       res.status(404).send("Review not found");
     }
-  });
+  }); 
 });
 
 // Start the server
